@@ -1,0 +1,124 @@
+anyio==4.12.1
+argon2-cffi==25.1.0
+argon2-cffi-bindings==25.1.0
+arrow==1.4.0
+asttokens==3.0.1
+async-lru==2.1.0
+attrs==25.4.0
+babel==2.17.0
+beautifulsoup4==4.14.3
+bleach==6.3.0
+Bottleneck @ file:///C:/miniconda3/conda-bld/bottleneck_1761938212172/work
+certifi==2026.1.4
+cffi==2.0.0
+charset-normalizer==3.4.4
+colorama==0.4.6
+comm==0.2.3
+contourpy @ file:///C:/miniconda3/conda-bld/contourpy_1763643941183/work
+cycler @ file:///C:/Users/task_176606795666152/croot/cycler_1766068071140/work
+debugpy==1.8.19
+decorator==5.2.1
+defusedxml==0.7.1
+executing==2.2.1
+fastjsonschema==2.21.2
+fonttools @ file:///C:/Users/dev-admin/buildout/croot/fonttools_1768580908301/work
+fqdn==1.5.1
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+idna==3.11
+imbalanced-learn==0.14.1
+ipykernel==7.1.0
+ipython==9.9.0
+ipython_pygments_lexers==1.1.1
+ipywidgets==8.1.8
+isoduration==20.11.0
+jedi==0.19.2
+Jinja2==3.1.6
+joblib @ file:///C:/Users/task_176786753226112/croot/joblib_1767868141093/work
+json5==0.13.0
+jsonpointer==3.0.0
+jsonschema==4.26.0
+jsonschema-specifications==2025.9.1
+jupyter==1.1.1
+jupyter-console==6.6.3
+jupyter-events==0.12.0
+jupyter-lsp==2.3.0
+jupyter_client==8.8.0
+jupyter_core==5.9.1
+jupyter_server==2.17.0
+jupyter_server_terminals==0.5.4
+jupyterlab==4.5.3
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.28.0
+jupyterlab_widgets==3.0.16
+kiwisolver @ file:///C:/miniconda3/conda-bld/kiwisolver_1764159361484/work
+lark==1.3.1
+MarkupSafe==3.0.3
+matplotlib==3.10.8
+matplotlib-inline==0.2.1
+mistune==3.2.0
+mkl-service==2.5.2
+mkl_fft @ file:///C:/miniconda3/conda-bld/mkl_fft_1761592920453/work
+mkl_random @ file:///C:/miniconda3/conda-bld/mkl_random_1761593081220/work
+nbclient==0.10.4
+nbconvert==7.16.6
+nbformat==5.10.4
+nest-asyncio==1.6.0
+notebook==7.5.3
+notebook_shim==0.2.4
+numexpr @ file:///C:/miniconda3/conda-bld/numexpr_1762165726164/work
+numpy @ file:///C:/Users/task_176837630250155/croot/numpy_and_numpy_base_1768376421945/work/dist/numpy-2.4.1-cp314-cp314-win_amd64.whl#sha256=0b150930ee2ab133311ccdffa0173c240e53c5e8cba0cb4cdb4a4a3d27d7fea4
+packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049098810/work
+pandas @ file:///C:/miniconda3/conda-bld/pandas_1762332435977/work/dist/pandas-2.3.3-cp314-cp314-win_amd64.whl#sha256=ac6b8c30836d425b7de9199ad67d79b5d4d36663122fd5a70d81bfc894c0da42
+pandocfilters==1.5.1
+parso==0.8.5
+patsy==1.0.2
+pillow @ file:///C:/Users/task_176943337702255/croot/pillow_1769433480741/work
+platformdirs==4.5.1
+prometheus_client==0.24.1
+prompt_toolkit==3.0.52
+psutil==7.2.2
+pure_eval==0.2.3
+pycparser==3.0
+Pygments==2.19.2
+pyparsing @ file:///C:/miniconda3/conda-bld/pyparsing_1763973805642/work
+PyQt5==5.15.11
+PyQt5_sip @ file:///C:/miniconda3/conda-bld/pyqt-split_1764009081156/work/pyqt_sip
+python-dateutil @ file:///C:/Users/dev-admin/buildout/croot/python-dateutil_1759954839763/work
+python-json-logger==4.0.0
+pytz @ file:///C:/Users/dev-admin/buildout/croot/pytz_1759958332927/work
+pywinpty==3.0.2
+PyYAML==6.0.3
+pyzmq==27.1.0
+referencing==0.37.0
+requests==2.32.5
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+rfc3987-syntax==1.1.0
+rpds-py==0.30.0
+scikit-learn @ file:///C:/Users/task_176609793537583/croot/scikit-learn_1766098049906/work
+scipy @ file:///C:/Users/dev-admin/buildout/croot/scipy_1762547894260/work/dist/scipy-1.16.3-cp314-cp314-win_amd64.whl#sha256=f854c3010905cf0cfe64f344908caafcac6dd6b8ce7907efc6fc216b8b80ada9
+seaborn==0.13.2
+Send2Trash==2.1.0
+setuptools==80.10.1
+sip @ file:///C:/Users/dev-admin/buildout/croot/sip_1761943990339/work
+six @ file:///C:/Users/dev-admin/buildout/croot/six_1759954493303/work
+sklearn-compat==0.1.5
+soupsieve==2.8.3
+stack-data==0.6.3
+statsmodels==0.14.6
+terminado==0.18.1
+threadpoolctl @ file:///C:/miniconda3/conda-bld/threadpoolctl_1764361788517/work
+tinycss2==1.4.0
+tornado @ file:///C:/Users/dev-admin/buildout/croot/tornado_1768567268628/work
+traitlets==5.14.3
+typing_extensions==4.15.0
+tzdata @ file:///home/task_176829656558347/croot/python-tzdata_1768296637279/work
+uri-template==1.3.0
+urllib3==2.6.3
+wcwidth==0.5.0
+webcolors==25.10.0
+webencodings==0.5.1
+websocket-client==1.9.0
+widgetsnbextension==4.0.15
